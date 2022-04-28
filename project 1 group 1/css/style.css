@@ -13,6 +13,7 @@ body{
 nav{
     height: 60px;
     width: 100%;
+<<<<<<< HEAD
     position: fixed;
     background-color: white;
     border: 1px #CCCCCC solid;
@@ -205,6 +206,15 @@ a button:hover{
 #work{
     margin-top: 300px;
 }
+=======
+    height: 100%;
+} */
+#art-logo{
+    background-image: url(../images/Nokia-X10-C01-110-techtimes.webp);
+    background-position: center;
+    height: 1080px;
+} 
+>>>>>>> bbf246fc0ead2757c92eb072a89b78f6c5330dd5
 .w-header {
     text-align: center;
     font-size: 30px;
@@ -214,14 +224,21 @@ a button:hover{
     font-size: 20px;
 }
 #w-images1 {
+<<<<<<< HEAD
     border: 1px solid black;
     height: 370px;
     display: flex;
     border-bottom: 0;
+=======
+    border: 0px solid white;
+    height: 370px;
+    display: flex;
+>>>>>>> bbf246fc0ead2757c92eb072a89b78f6c5330dd5
 }
 .w-ima1 {
     padding: 5px 15px 5px 10px;
 }
+<<<<<<< HEAD
 .w-ima1:hover{
     background-color: gray;
     cursor: pointer;
@@ -249,12 +266,26 @@ a button:hover{
 }
 #w-images2 {
     border: 1px solid black;
+=======
+.w-ima2 {
+    padding: 5px 15px 5px 15px;
+}
+.w-ima3 {
+    padding: 5px 15px 5px 15px;
+}
+.w-ima4 {
+    padding: 5px 15px 5px 10px;
+}
+#w-images2 {
+    border: 0px solid white;
+>>>>>>> bbf246fc0ead2757c92eb072a89b78f6c5330dd5
     height: 370px;
     display: flex;
 }
 .w-ima5 {
     padding: 10px 15px 5px 10px;
 }
+<<<<<<< HEAD
 .w-ima5:hover{
     background-color: gray;
     cursor: pointer;
@@ -359,3 +390,29 @@ figure img{
 .footer-group1-link:hover{
     color: yellow;
 }
+=======
+.w-ima6 {
+    padding: 10px 15px 5px 15px;
+}
+.w-ima7 {
+    padding: 10px 15px 5px 15px;
+}
+.w-ima8 {
+    padding: 10px 15px 5px 10px;
+}
+.upload{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    padding: 64px 0px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/49/A_black_image.jpg) ;
+    color: aqua
+}
+.end{
+    padding: 10px 0px;
+}
+.icon{
+    padding: 10px 0px;
+    color: aqua;
+}
+>>>>>>> bbf246fc0ead2757c92eb072a89b78f6c5330dd5
