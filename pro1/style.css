@@ -1,0 +1,46 @@
+
+.price {
+    text-align: center;
+    color: #070505;
+    background-color: #cdcdcd;
+}
+.basic {
+    width: 200px;
+    min-height: 400px;
+    border: 3px solid #cdcdcd;
+    float: left;
+    margin-bottom: 5px;
+}
+.pro {
+    width: 250px;
+    min-height: 400px;
+    border: 3px solid #cdcdcd;
+    float: left;
+    margin-bottom: 5px;
+}
+.premium {
+    width: 200px;
+    min-height: 400px;
+    border: 3px solid #cdcdcd;
+    float: left;
+    margin-bottom: 5px;
+}
+.lili {
+    color: white;
+    background-color: #ec0505;
+}
+.ul {
+    list-style-type: none;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    padding-inline-start: 0;
+}
+.row {
+    width: 730px;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
